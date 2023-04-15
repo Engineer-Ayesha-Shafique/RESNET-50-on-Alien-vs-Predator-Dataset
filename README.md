@@ -25,4 +25,4 @@ We will be using the Keras deep learning library to implement our model. Keras i
 After training the model for 50 epochs, we achieved an accuracy of approximately 96% on the validation set. However, it's important to note that this accuracy may not be indicative of the model's performance on new and unseen data.
 
 ## Conclusion
-In this implementation, we used the RESNET50 architecture to classify images of Aliens and Predators with high accuracy. This model can be used to classify new and unseen images of Aliens and Predators with a high degree of accuracy.
+In this implementation, I've used the RESNET50 architecture to classify images of Aliens and Predators with high accuracy. This model can be used to classify new and unseen images of Aliens and Predators with a high degree of accuracy.
